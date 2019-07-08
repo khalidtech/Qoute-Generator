@@ -1,0 +1,64 @@
+*{
+    
+    margin:0;
+    padding:0;
+}
+
+body{
+    width: 100%;
+    background: #E5A255;
+}
+
+.container{
+    
+    width: 500px;
+    background: #ffff;
+    text-align: center;
+    font-family: monospace, sans-serif;
+    padding: 20px 30px;
+    margin: 200px auto;
+    border: none;
+    border-radius: 7px;
+}
+
+div h1{
+    
+    font-size: 18px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+}
+
+div h3{
+    
+    padding: 10px 20px;
+}
+
+div button{
+    
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+    
+}
+
+div .qoute{
+    
+    border-left: 10px solid #E5A255; 
+    font-weight: 400;
+    font-size: 19px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.name{
+    
+    padding: 10px 20px;
+    font-size: 17px;
+    font-style: italic;
+    border-width: 10px;
+    border-top: 2px solid black;
+}
